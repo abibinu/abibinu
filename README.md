@@ -12,6 +12,7 @@
 💞️ I’m looking to collaborate on: Web and mobile app projects, machine learning solutions, and tech-focused startups.
 
 📫 How to reach me: https://wa.me/+918590657748
+abibinuofficial@gmail.com
 
 😄 Pronouns: He/Him
 
