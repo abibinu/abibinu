@@ -8,16 +8,18 @@ I am a Software Developer and Master of Computer Applications (MCA) student with
 * 🎓 Currently pursuing my MCA at Mahatma Gandhi University.
 * 💻 Focused on full-stack development, mobile applications, and machine learning solutions.
 * 📈 Passionate about financial technology, specifically integrating APIs for automated market analysis and trading systems. 
-* 🌱 Currently expanding my expertise in: **Advanced PHP, Flutter, Node.js, and DevOps workflows**.
+* 🌱 Currently expanding my expertise in: **Advanced PHP and DevOps workflows**.
 * 💞️ Looking to collaborate on: Tech-focused startups, machine learning implementations, and open-source web/mobile projects.
 * ⚡ Pronouns: He/Him
 
 ### 🛠️ Tech Stack & Skills
 
-* **Languages:** Python, PHP, JavaScript, HTML/CSS
-* **Frameworks & Tech:** Flutter, Node.js
-* **Domains:** Machine Learning, Front-End & Back-End Web Development, Mobile App Development
-* **Tools & Utilities:** Git/GitHub, Video Editing, API Integration
+* **Languages:** Python, Java, C++, JavaScript, PHP
+* **Front-End & Mobile:** React, Flutter, Three.js, HTML/CSS
+* **Back-End & Frameworks:** Node.js, Express.js, Django
+* **Databases & Cloud:** PostgreSQL, MongoDB, AWS, Firebase
+* **DevOps & Tools:** Git, Docker, Video Editing
+* **Domains:** Machine Learning (ML), Full-Stack Web Development, Mobile App Development
 
 ### 📫 Connect with Me
 
