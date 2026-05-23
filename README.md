@@ -14,10 +14,10 @@ I am a Software Developer and Master of Computer Applications (MCA) student with
 
 ### 🛠️ Tech Stack & Skills
 
-* **Languages:** Python, Java, C++, JavaScript, PHP
-* **Front-End & Mobile:** React, Flutter, Three.js, HTML/CSS
+* **Languages:** Python, Java, C++, JavaScript, PHP, C#
+* **Front-End & Mobile:** React, Flutter, HTML/CSS
 * **Back-End & Frameworks:** Node.js, Express.js, Django
-* **Databases & Cloud:** PostgreSQL, MongoDB, AWS, Firebase
+* **Databases & Cloud:** PostgreSQL, MongoDB, AWS
 * **DevOps & Tools:** Git, Docker, Video Editing
 * **Domains:** Machine Learning (ML), Full-Stack Web Development, Mobile App Development
 
