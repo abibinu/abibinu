@@ -1,7 +1,7 @@
 # Hi there, I'm Abi Binu 👋
 ## Software Developer
 
-I am a Software Developer and Master of Computer Applications (MCA) student with a strong foundation in building impactful software. I specialize in web development, mobile applications, and machine learning. Whether I am crafting an intuitive front-end, participating in global tech initiatives like the NASA Space Apps Challenge, or developing automated Python-based algorithmic trading bots, I love using technology to solve complex, real-world problems. 
+I am a Software Developer and Master of Computer Applications (MCA) student with a strong foundation in building impactful software. I specialize in web development, mobile applications, and machine learning. Whether I am crafting an intuitive front-end, participating in global tech initiatives, or developing automated Python-based algorithmic trading bots, I love using technology to solve complex, real-world problems. 
 
 ### 🚀 About Me
 
